@@ -5,13 +5,13 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "fast-xml-parser": "^3.19.0",
-    "lodash": "^4.17.21"
+    "fast-xml-parser": "3",
+    "lodash": "4"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.168",
-    "@types/node": "^14.14.37",
-    "typescript": "^4.2.4"
+    "@types/lodash": "4",
+    "@types/node": "14",
+    "typescript": "4"
   },
   "scripts": {
     "build": "tsc -p ."
