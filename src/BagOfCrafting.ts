@@ -1,4 +1,4 @@
-import _ = require('lodash');
+import * as _ from 'lodash';
 import { ItemPool, ItemQualities } from './Isaac';
 import { Rng } from './Rng';
 
