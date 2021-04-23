@@ -15,5 +15,6 @@
   },
   "scripts": {
     "prepare": "tsc -p ."
-  }
+  },
+  "files": ["dist/*"]
 }
