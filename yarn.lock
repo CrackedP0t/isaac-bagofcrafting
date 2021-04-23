@@ -19,9 +19,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bag_of_crafting@workspace:.":
+"bagofcrafting@workspace:.":
   version: 0.0.0-use.local
-  resolution: "bag_of_crafting@workspace:."
+  resolution: "bagofcrafting@workspace:."
   dependencies:
     "@types/lodash": 4
     "@types/node": 14
