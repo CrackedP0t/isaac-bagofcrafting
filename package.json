@@ -14,6 +14,6 @@
     "typescript": "4"
   },
   "scripts": {
-    "build": "tsc -p ."
+    "prepare": "tsc -p ."
   }
 }
